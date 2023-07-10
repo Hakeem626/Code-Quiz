@@ -143,8 +143,8 @@ var questions = [
         correctAnswer: 0
       },
     {
-        question: "What caused the Black Plague ?",
-        choices: ["Bacteria", "War", "Illuminati", "Donald Trump"],
-        correctAnswer: 0
+        question: "The ocean covers ___ if the Earth's surface?",
+        choices: ["58", "72", "71", "1/2"],
+        correctAnswer: 2
       },
 ];
