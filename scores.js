@@ -4,7 +4,6 @@ var scoresListElement = document.getElementById("scores-list");
 // Fetch high scores and populate the table
 function fetchHighScores() {
   // Here, you can fetch the high scores using your preferred method (e.g., API call, local storage, etc.)
-  // Replace this example data with your actual high scores
   var highScores = [
     { initials: "HO", score: 100 },
     { initials: "CD", score: 80 },
